@@ -3,8 +3,19 @@
 # Enter your code on line 7 to print 'Hello, World!'
 # to the console (the panel on the right)
 
-print("Hello");
-
+print("1. Hello");
+print("3. Dhivya's Python Code!");
+print ("4. Printing a number:"); 
+print (25);
+print ("4.Bonus: Adding 2 numbers:"); 
+print (20 + 50)
+print ("6. first message" + " " + "Second message on same line")
+print ("7. \"Nevermore\" - Printed the quotation marks using backslash which is an escape character ")
+print("""8.
+-->This message is split into 
+   Multiple Lines, because 
+I am using 3 quotation marks <--
+""")
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
